@@ -5,5 +5,5 @@
 - [Youtube video][vid]
 
 [link]:https://github.com/riptideio/pymodbus
-[code]:
+[code]:https://github.com/sarathtv/Modbus_Rpi_SM_RTU/blob/master/Client_Rpi_Modbus_SM.py
 [vid]:https://youtu.be/p0NBDxVmkrI
